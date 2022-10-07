@@ -1,0 +1,118 @@
+body{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    margin: 0px 0% 0px 5%;
+    font-weight: 600;
+}
+
+span{
+    padding-left: 1%;
+}
+
+#banner_top{
+    background-color: #355203;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+}
+
+.titulos{
+    color: white;
+    font-size: xxx-large;
+    letter-spacing: 0.25em;
+}
+
+a{
+    color: white;
+}
+
+#banner_medio{
+    background-color: hsl(0, 89%, 43%);
+    color: white;
+    margin: 1%;
+    padding: 0px;
+}
+
+img{
+    vertical-align: middle;
+}
+
+div{
+    display: inline-block;
+    width: 48%;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-size: xx-large;
+    vertical-align: middle;
+}
+
+#banner_bottom{
+    background-color: hsl(0, 89%, 43%);
+    color: white;
+    font-size: x-large;
+    margin: 1%;
+    padding: 0px;
+}
+
+hr{
+    margin: 3% 5% 3% 5%;
+}
+
+footer{
+    margin: 0% 5% 5% 5%;
+}
+
+#boton_sesion{
+    text-decoration:none;
+    font-weight: 600;
+    color: black;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: transparent;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:35px;
+    margin: 0% 1% 0% 45%;
+}
+
+#boton_registro{
+    text-decoration:none;
+    font-weight: 600;
+    color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:35px;
+}
+
+.boton_pedido{
+    text-decoration:none;
+    font-weight: 600;
+    font-size: large;
+    color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: transparent;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:35px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
